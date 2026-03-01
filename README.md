@@ -135,7 +135,12 @@ Current Progress (Day 1–2):
 - Docker containerization  
 - GitHub repository setup  
 
-Deployment and network experimentation in progress.
+Day 3 Completed:
+- EC2 deployment  
+- Docker installation on cloud  
+- Public endpoint verification  
+
+Next: Network impairment experiments
 
 ---
 
